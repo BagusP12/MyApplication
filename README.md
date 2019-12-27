@@ -1,7 +1,7 @@
 # MyApplication
 Mitrais Coding Test
 
-Add a database : my_app_database, then create user table with rows as follows :
+Add a database : my_app_database, then create user table with rows as following :
 
 mobile_phone  : varchar
 
